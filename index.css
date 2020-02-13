@@ -1,0 +1,29 @@
+
+#Im{
+    height:625px;
+    width: 1500px;
+}
+/*.carousel-caption{
+    background-color: black;
+    opacity: 0.5;
+}*/
+#Main{
+    background-color:rgb(244, 203, 19);
+    padding: 10px;
+}
+#aa{
+    color: black;
+    font-size: 22px;
+    font-family: 'Roboto';
+    margin-top: 20px;
+}
+#a{
+    color: black;
+    font-family: 'Roboto';
+    font-size: 25px;
+    margin-left: 20px;
+}
+.col-lg{
+
+}
+
